@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20Github&textBg=false&fontSize=50&animation=twinkling)
-<h2 align="center">Hello 👋, I'm Jenny-- an experienced and passionate web developer dedicated to crafting high-performance, user-driven digital solutions.<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" /></h2>
+<h2 align="center">Hello 👋, I'm Jenny-- an experienced and passionate junior web developer dedicated to crafting high-performance, user-driven digital solutions.<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" /></h2>
 
 --------------------------------
 
